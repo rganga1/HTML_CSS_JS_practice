@@ -6,3 +6,5 @@ export function abc(x,y,z){
 console.log("rakeshGangavati")
 
 export let myName="rakeshGangavati"
+
+console.log("checking for force-caching")
