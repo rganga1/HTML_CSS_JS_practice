@@ -2,10 +2,8 @@
 
 // abc(1,2,8);
 // console.log(typeof(abc))
-console.log("abc")
+console.log("abc from 2.js")
 
-export let a=3;
 
-// let k=abc(5,5,5)
+export const person={a:1,b:2}
 
-// export default k;
